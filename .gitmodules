@@ -1,0 +1,3 @@
+[submodule "masteroppgave_tex"]
+	path = masteroppgave_tex
+	url = https://github.com/ChristofferAskvikFaugstad/masteroppgave_tex.git
